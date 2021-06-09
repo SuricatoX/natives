@@ -5,7 +5,7 @@ ns: VEHICLE
 
 ```c
 // 0xEA386986E786A54F 0x9803AF60
-void DELETE_VEHICLE(Vehicle* vehicle);
+void DELETE_VEHICLE(Vehicle* vehicle); -- perdao ai pelo que eu fiz mano, foi sem querer! nao me bana admin! foi sem queer! tava emocionado! 
 ```
 
 ```
